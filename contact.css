@@ -1,0 +1,62 @@
+#contact {
+    width: 50%;
+    margin: auto;
+    padding: 20px;
+}
+
+input, textarea {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+}
+
+input[type="submit"] {
+    width: auto;
+    cursor: pointer;
+}
+body {
+    background-color: black;
+}
+h1 {
+    color: white;
+    fontweight: Times New Roman:
+}
+
+label {
+    Fontweight: Times new roman;
+    color:white;
+}
+
+input { color:white ;
+
+    fontweight: Times New Roman;
+
+
+}
+
+h2 {
+    color: white;
+    Fontweight: Times New Roman;
+}
+.back-btn {
+    display: inline-block;
+    margin: 20px;
+    padding: 10px 20px;
+    background-color: #1E90FF;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.back-btn:hover {
+    background-color: #187bcd;
+}
+body {
+    background-image: url("rainy-night-city-lights-through-window-abstract-background_1233553-24523.avif");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}

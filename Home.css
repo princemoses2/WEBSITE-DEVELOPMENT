@@ -1,0 +1,67 @@
+h1 {
+    color: white;
+    fontweight: Times New Roman;
+     font-size: 32px;
+}
+
+label {
+     font-size: 32px;
+    Fontweight: Times new roman;
+    color: white;
+}
+
+input {
+    font-size: 32px;
+    fontweight: Times New Roman;
+    color: burlywood;
+
+}
+
+p {
+    color: white;
+    Font-size: 30px;
+    Fontweight: Times New Roman;
+}
+
+body {
+    background-color: black;
+    text-align: center;
+}
+
+.navbar {
+    background-color:black;
+    padding: 15px;
+}
+
+.navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.navbar li {
+    display: inline;
+}
+
+.navbar a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    font-family: Arial, sans-serif;
+    padding: 8px 12px;
+}
+
+.navbar a:hover {
+    background-color: #555;
+    border-radius: 5px;
+} 
+body {
+    background-image: url("raindrops-on-a-windowpane-with-blurred-city-lights-ai-generated-photo.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
